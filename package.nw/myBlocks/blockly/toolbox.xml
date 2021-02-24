@@ -1,0 +1,5 @@
+<category id="myBlocks" name="myBlocks">
+  <category id="myCategory1" name="myCategory1">
+  <block type="test"></block>
+</category>
+</category>
